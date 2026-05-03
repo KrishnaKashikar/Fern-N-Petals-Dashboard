@@ -22,11 +22,7 @@ Formulas: Advanced Lookup functions, Nested IF statements, and Data Validation.
 
 About the Developer
 Krishna M. Kashikar
-
-  
-
 Education: B.E. Computer Science & Engineering  
-
 LinkedIn: krishna-manoj-kashikar-a74739258
 
   
