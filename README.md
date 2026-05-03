@@ -21,7 +21,8 @@ Techniques: Exploratory Data Analysis (EDA), Data Transformation, Pivot Reportin
 Formulas: Advanced Lookup functions, Nested IF statements, and Data Validation.
 
 About the Developer
-Krishna M. Kashikar
+
+NAME:- Krishna M. Kashikar
 
 Education: B.E. Computer Science & Engineering  
 
