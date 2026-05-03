@@ -5,6 +5,7 @@ Project Overview
 This project involves the development of a comprehensive Sales Dashboard using Microsoft Excel to analyze performance for Ferns N Petals (FNP). The goal was to transform raw, structured datasets into a dynamic visual tool that helps stakeholders monitor revenue trends and operational efficiency.
 
 Key Features
+
 Data Cleaning & Preprocessing: Applied data cleaning techniques to ensure structural integrity and accuracy across large retail datasets.
 
 Dynamic Sales Tracking: Engineered a tracking system using advanced Excel functions (Pivot Tables, VLOOKUP, and Index-Match) to monitor revenue and performance metrics.
