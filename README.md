@@ -1,5 +1,6 @@
 # Fern-N-Petals-Dashboard
 FNP (Ferns N Petals) Sales Dashboard
+
 Project Overview
 This project involves the development of a comprehensive Sales Dashboard using Microsoft Excel to analyze performance for Ferns N Petals (FNP). The goal was to transform raw, structured datasets into a dynamic visual tool that helps stakeholders monitor revenue trends and operational efficiency.
 
