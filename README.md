@@ -28,9 +28,11 @@ NAME:- Krishna M. Kashikar
 Education: B.E. Computer Science & Engineering  
 
 LinkedIn: krishna-manoj-kashikar-a74739258
+
+Portfolio: krishna-kashikar.netlify.app
+
 <img width="1844" height="623" alt="FNP_dashboard png" src="https://github.com/user-attachments/assets/850cc184-cc51-4c5d-a767-d19398f008de" />
 
 
 
 
-Portfolio: krishna-kashikar.netlify.app
